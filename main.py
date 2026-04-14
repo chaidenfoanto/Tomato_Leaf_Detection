@@ -4,7 +4,7 @@ import cv2
 
 # LOAD MODEL CNN
 model = tf.keras.models.load_model(
-    "model_cnn_penyakit_daun_testset.h5"
+    "model_cnn_penyakit_daun.h5"
 )
 
 # INFORMASI PENYAKIT
