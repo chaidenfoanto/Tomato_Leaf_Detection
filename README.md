@@ -1,4 +1,4 @@
-# Tomato Leaf Disease Detection — CNN + OpenCV
+# Automatic Identification of Tomato Leaf Conditions Based on OpenCV and Convolutional Neural Networks
 
 A real-time tomato leaf disease detection system using Convolutional Neural Network (CNN) and Computer Vision (OpenCV). The system captures live video from a webcam, detects whether a tomato leaf is present using HSV color segmentation, and classifies the type of disease with confidence scoring and treatment suggestions.
 
